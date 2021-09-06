@@ -14,5 +14,5 @@
 
 ### 示例
 
-* preset
-* presentation
+* [preset](https://www.iciba.com/word?w=preset)
+* [presentation](https://www.iciba.com/word?w=presentation)
